@@ -1,7 +1,7 @@
 ### Hello!
-###
+
 ### I'm a 9th grader with avid interests in many aspects of coding.
-###
+
 
 #### Here's some things I'm doing:
   - Coding the game of Set in Python (for my Computer Programming class in high school)
