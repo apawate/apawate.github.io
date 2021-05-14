@@ -1,3 +1,7 @@
+# Projects                    Status                        About
+
+
+
 ### Hello!
 
 ### I'm a 9th grader with avid interests in many aspects of coding.
