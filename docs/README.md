@@ -1,4 +1,4 @@
-# Projects                    Status                        About
+# [Projects](https://apawate.github.io/projects)                                                 [Status](https://apawate.github.io/status)                                                [About](https://apawate.github.io/about)
 
 
 
