@@ -1,8 +1,13 @@
-### Agastya Pawate's Github.io Website
+### My Projects
 
 
-# Welcome to my website! This is where I'll post info about some of my coding projects as well as some other stuff.
+# Dog
+
+[Dog](https://github.com/HuangPatrick16777216/dog) is a tool for Unix-based systems that emulates `cat`, except with syntax highlighting and other features. It currently supports C, Python, Java, XML, JSON and others. I developed it with [@HuangPatrick16777216](https://github.com/HuangPatrick16777216). 
+
+**[Dogcumentation]**(https://github.com/HuangPatrick16777216/dog/blob/main/README.md)
 
 
 
-
+# Set Game
+[Coming soon...](https://apawate.github.io/status#set)
