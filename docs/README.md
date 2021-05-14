@@ -16,3 +16,4 @@
   - _**New**_ [**Dog**](https://github.com/HuangPatrick16777216/dog): Like the Unix command `cat`, except with cool stuff like syntax highlighting (because dogs are cooler than cats). Collaborating with [@HuangPatrick16777216](https://github.com/HuangPatrick16777216), to whom all the credit goes since he had the idea and has coded nearly all of it.
 
 
+_this page is a copy of my github.com/apawate readme_
