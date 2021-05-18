@@ -7,6 +7,8 @@
 
 [Status](apawate.github.io/status#graphsciics)
 
+[Documentation](github.com/apawate/graphsciics#readme)
+
 
 ### Dog
 
