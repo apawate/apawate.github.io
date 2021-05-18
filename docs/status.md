@@ -1,7 +1,7 @@
 # Here's some things I'm doing:
   - Creating a Python ASCII graphics library, [GraphSCIIcs](https://github.com/apawate/graphsciics). Version 0.0.1 is now out, with basic support for rectangles. More will come soon. It is available via PyPI and `pip install graphsciics`.
   - Coding the [game of Set](https://github.com/apawate/Python3-Set-Game-2021) in Python (for my Computer Programming class in high school)
-    - The repo is private for now (I don't want other classmates stealing the code) but I'll make it public once I finish. *Update: Projects are graded and I also have feedback, but still can't release as of 5/7.*
+    - The repo is now **public**! Contribute by forking and creating a pull-request, or you can talk to me at school and I'll add you as a contributor (if you are also a Lynbrook student). 
     - Currently, I'm trying to make it multiplayer in real-time over the internet, which is hard. There's one bug which keeps popping up - I almost have it squashed, but it still appears under some circumstances...
   - Working on software for my robotics team, [@Team846](https://github.com/Team846) 
   - Slowly improving my [**ASCII Hangman**](https://github.com/apawate/ascii-hangman) game
@@ -12,7 +12,7 @@
 
 ### Set
 
-Waiting for [my CS teacher](https://github.com/psmaker) to approve me releasing it as of 5/14. It was originally developed for my CS project this year. It comes with features such as realtime multiplayer modes over the internet!
+**The game of set is now public!** Contribute by forking and making a pull request, or asking me at school (if you're a Lynbrook student) to be added directly as a contributor. It was originally developed for my CS project this year. It comes with features such as realtime multiplayer modes over the internet!
 
 ### Dog
 
@@ -21,4 +21,4 @@ Patrick is currently developing an [abstract syntax tree](https://github.com/Hua
 
 ### GraphSCIIcs
 
-Currently developing it. The version out, 0.0.1, has basic support for rectangles. I will add support for other shapes as well as colors later on.
+Currently developing it. The version out, 0.0.1, has basic support for rectangles. I will add support for other shapes as well as colors later on. It is also available on PyPI: `pip install graphsciics`
