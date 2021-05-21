@@ -14,4 +14,4 @@ Click on the subpages below to start exploring.
 
 The [set game](https://github.com/apawate/Python3-Set-Game-2021) is now public! Contribute by forking and doing a pull request, or talk to me at school (if you're a Lynbrook student) and I can add you as a contributor.
 
-[GraphSCIIcs](https://github.com/apawate/graphsciics) 0.0.2 is now available on PyPI! `pip install graphsciics`
+[GraphSCIIcs](https://github.com/apawate/graphsciics) 0.0.3 is now available on PyPI! `pip install graphsciics`

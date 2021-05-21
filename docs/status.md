@@ -1,5 +1,5 @@
 # Here's some things I'm doing:
-  - Creating a Python ASCII graphics library, [GraphSCIIcs](https://github.com/apawate/graphsciics). Version 0.0.2 is now out, with basic support for rectangles as well as animation support. More features will come soon. It is available via PyPI and `pip install graphsciics`.
+  - Creating a Python ASCII graphics library, [GraphSCIIcs](https://github.com/apawate/graphsciics). Version 0.0.3 is now out, with basic support for rectanglesand custom shapes. It also can do animation. More features will come soon, such as colors. It is available via PyPI and `pip install graphsciics`.
   - Coding the [game of Set](https://github.com/apawate/Python3-Set-Game-2021) in Python (for my Computer Programming class in high school)
     - The repo is now **public**! Contribute by forking and creating a pull-request, or you can talk to me at school and I'll add you as a contributor (if you are also a Lynbrook student). 
     - Currently, I'm trying to make it multiplayer in real-time over the internet, which is hard. There's one bug which keeps popping up - I almost have it squashed, but it still appears under some circumstances...
@@ -21,4 +21,4 @@ Patrick is currently developing an [abstract syntax tree](https://github.com/Hua
 
 ### GraphSCIIcs
 
-Currently developing it. The version out, 0.0.2, has basic support for rectangles and animation. I will add support for other shapes as well as colors later on. It is available on PyPI: `pip install graphsciics`
+Currently developing it. The version out, 0.0.3, has basic support for rectangles, custom shapes and animation. I will add support for other shapes as well as colors later on. It is available on PyPI: `pip install graphsciics`, but currently version 0.0.3 is not up and running there.
