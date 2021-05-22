@@ -3,7 +3,7 @@
 
 ### GraphSCIIcs
 
-[GraphSCIIcs](https://github.com/apawate/graphsciics) is a Python library for creating graphics in ASCII. It is currently in version 0.0.3. It is also downloadable on pip via `pip install graphsciics` (Currently, 0.0.3 is not up yet on pip). 
+[GraphSCIIcs](https://github.com/apawate/graphsciics) is a Python library for creating graphics in ASCII. It is currently in version 0.0.3. It is also downloadable on pip via `pip install graphsciics` 
 
 [Status](apawate.github.io/status#graphsciics)
 

@@ -21,4 +21,4 @@ Patrick is currently developing an [abstract syntax tree](https://github.com/Hua
 
 ### GraphSCIIcs
 
-Currently developing it. The version out, 0.0.3, has basic support for rectangles, custom shapes and animation. I will add support for other shapes as well as colors later on. It is available on PyPI: `pip install graphsciics`, but currently version 0.0.3 is not up and running there.
+Currently developing it. The version out, 0.0.3, has basic support for rectangles, custom shapes and animation. I will add support for other shapes as well as colors later on. It is available on PyPI: `pip install graphsciics`
