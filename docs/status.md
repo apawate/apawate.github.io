@@ -14,6 +14,8 @@
 
 **The game of set is now public!** Contribute by forking and making a pull request, or asking me at school (if you're a Lynbrook student) to be added directly as a contributor. It was originally developed for my CS project this year. It comes with features such as realtime multiplayer modes over the internet!
 
+**Server Status:** On, available for connection
+
 ### Dog
 
 Patrick is currently developing an [abstract syntax tree](https://github.com/HuangPatrick16777216/python-east) for Dog to make it better. Unfortunately, this will erase a lot of the code I wrote (but will keep the easter egg).
