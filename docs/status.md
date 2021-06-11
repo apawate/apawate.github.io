@@ -14,7 +14,6 @@
 
 **The game of set is now public!** Contribute by forking and making a pull request, or asking me at school (if you're a Lynbrook student) to be added directly as a contributor. It was originally developed for my CS project this year. It comes with features such as realtime multiplayer modes over the internet!
 
-**Server Status:** On, available for connection
 
 
 
