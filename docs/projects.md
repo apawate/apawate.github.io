@@ -1,23 +1,11 @@
 # My Projects
 
 
-### GraphSCIIcs
+### Piano Video
 
-[GraphSCIIcs](https://github.com/apawate/graphsciics) is a Python library for creating graphics in ASCII. It is currently in version 0.0.3. It is also downloadable on pip via `pip install graphsciics` 
+[Piano Video](https://github.com/apawate/graphsciics) is a free, open-source tool for creating piano video simulations. Working on this with [Patrick](github.com/phuang1024).
 
-[Status](apawate.github.io/status#graphsciics)
-
-[Documentation](github.com/apawate/graphsciics#readme)
-
-
-### Dog
-
-[Dog](https://github.com/HuangPatrick16777216/dog) is a tool for Unix-based systems that emulates `cat`, except with syntax highlighting and other features. It currently supports C, Python, Java, XML, JSON and others. I developed it with [@HuangPatrick16777216](https://github.com/HuangPatrick16777216). 
-
-[Dogcumentation](https://github.com/HuangPatrick16777216/dog/blob/main/README.md)
-
-[Project status](https://apawate.github.io/status#Dog)
-
+[Documentation](https://piano-video.rtfd.iio)
 
 
 ### Set Game
