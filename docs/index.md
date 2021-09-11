@@ -14,4 +14,4 @@ Click on the subpages below to start exploring.
 
 The [set game](https://github.com/apawate/Python3-Set-Game-2021) is now public! Contribute by forking and doing a pull request, or talk to me at school (if you're a Lynbrook student) and I can add you as a contributor.
 
-[Piano Video] is currently being worked on by me. Feel free to contribute to [Patrick's repo](https://github.com/phuang1024/piano_video).
+[Piano Video] is currently being worked on by me and Patrick. Feel free to contribute to [Patrick's repo](https://github.com/phuang1024/piano_video).
