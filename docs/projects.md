@@ -5,7 +5,7 @@
 
 [Piano Video](https://github.com/apawate/graphsciics) is a free, open-source tool for creating piano video simulations. Working on this with [Patrick](github.com/phuang1024).
 
-[Documentation](https://piano-video.rtfd.iio)
+[Documentation](https://piano-video.rtfd.io)
 
 
 ### Set Game
