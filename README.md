@@ -1,1 +1,1 @@
-# apawate.github.io: My GitHub website, updated frequently.
+# apawate.github.io: My GitHub website, which is undergoing a redesign.
