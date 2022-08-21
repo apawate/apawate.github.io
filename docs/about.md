@@ -2,7 +2,7 @@
 
 ### Myself
 
-I'm a junior in high school at Lynbrook HS in San Jose, California. I do software and electrical for [Lynbrook Robotics, FRC Team 846](https://github.com/Team846) and am also a part of the cross country and track teams. Some current [projects](https://apawate.github.io/projects.md) I'm working on include a race finish program and a rewrite of the robot architecture for my team, as well as a (currently private) submission to MIT's THINK research competition.
+I'm a junior in high school at Lynbrook HS in San Jose, California. I do software and electrical for [Lynbrook Robotics, FRC Team 846](https://github.com/Team846) and am also a part of the cross country and track teams. Some current [projects](https://apawate.github.io/projects) I'm working on include a race finish program and a rewrite of the robot architecture for my team, as well as a (currently private) submission to MIT's THINK research competition.
 
 ### Website
 
