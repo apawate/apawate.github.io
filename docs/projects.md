@@ -1,16 +1,14 @@
 # My Projects
 
 
-### Piano Video
+### Team 846 Robot Rewrite
+Currently rewriting the code for [FRC Team 846](https://github.com/Team846) and learning the robot architecture. Preparing for summer competitions this year and FRC 2023 build season!
 
-[Piano Video](https://github.com/apawate/graphsciics) is a free, open-source tool for creating piano video simulations. Working on this with [Patrick](github.com/phuang1024).
+### [Who Won?](https://github.com/apawate/whowon)
+An open-source finish camera for track and cross-country meets in partnership with [Adarsh Iyer](https://github.com/adarshramiyer).
 
-[Documentation](https://piano-video.rtfd.io)
-
+## Archived
 
 ### Set Game
 The [set game](https://github.com/apawate/Python3-Set-Game-2021) is now public! After a long hiatus, development will restart - first, primarily focusing on the [nightmare bug](https://github.com/apawate/Python3-Set-Game-2021/commit/b8bce2027e9d09ca5446327035736ee4e18524b0), which (despite me saying otherwise in the link) is still not completely fixed. 
 
-[Documentation](https://github.com/apawate/Python3-Set-Game-2021#readme)
-
-[Project status](https://apawate.github.io/status#set)
