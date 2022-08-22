@@ -7,6 +7,8 @@ Currently rewriting the code for [FRC Team 846](https://github.com/Team846) and 
 ### Who Won?
 An [open-source finish camera](https://github.com/apawate/whowon) for track and cross-country meets in partnership with [Adarsh Iyer](https://github.com/adarshramiyer).
 
+### Skparab1 Pacman
+A PacMan game with [skparab1](https://github.com/skparab1) and many other very cool people, all from LHS. Play [here](https://skparab1.github.io) and feel free to fork and contribute!
 
 
 
