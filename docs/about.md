@@ -2,7 +2,7 @@
 
 ### Myself
 
-I'm a junior in high school at Lynbrook HS in San Jose, California. I do software for [Lynbrook Robotics, FRC Team 846](https://github.com/Team846) and am also a part of the cross country and track teams. Some current [projects](https://apawate.github.io/projects) I'm working on include a game piece detection program for my robotics team as well as a (currently private) submission to MIT's THINK research competition.
+I'm a junior in high school at Lynbrook HS in San Jose, California and a winner of MIT's prestigious [THINK research competition](https://think.mit.edu)! My research project focuses on using low-cost phased array ultrasonic mapping in disaster relief zones, coupled with SLAM and multivariate regression in order to estimate odometry and reduce noise.
 
 ### Website
 
