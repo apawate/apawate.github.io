@@ -6,4 +6,4 @@ I'm a junior in high school at Lynbrook HS in San Jose, California and a winner 
 
 ### Website
 
-As of August 2022, this website has been rewritten. It will house docs for my code projects and additional, miscellaneous interesting stuff as well!
+As of February 2023, this website has been rewritten. It will house docs for my code projects (particularly MIT THINK) and additional, miscellaneous interesting stuff as well!
