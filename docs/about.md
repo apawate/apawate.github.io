@@ -2,7 +2,7 @@
 
 ### Myself
 
-I'm a senior in high school at Lynbrook HS in San Jose, California and a winner of MIT's prestigious [THINK research competition](https://think.mit.edu)! My research project focuses on using low-cost phased array ultrasonic mapping in disaster relief zones, coupled with SLAM and multivariate regression in order to estimate odometry and reduce noise.
+I'm a senior in high school at Lynbrook HS in San Jose, California, interested in majoring in electrical engineering at a research university. I'm a National Merit Semifinalist and a winner of MIT's prestigious [THINK research competition](https://think.mit.edu)! My research project focuses on using low-cost phased array ultrasonic mapping in disaster relief zones, coupled with SLAM and multivariate regression in order to estimate odometry and reduce noise.
 
 ### This site
 
