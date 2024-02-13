@@ -14,12 +14,10 @@ Junior year: 18:13
 Freshman year: 5:29
 Sophomore year: 5:20
 Unofficial end-of-XC 1600, Junior year: 5:07
+Unofficial end-of-XC 1500, Senior year: 5:07
 
 ## 3200
 Freshman year: 13:49
 Sophomore year: 11:22
 Junior year: (we don't talk about this)
-
-# Routes
-
 

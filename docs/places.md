@@ -28,4 +28,6 @@ Accessible through upper Stevens Canyon Road, this is literally the nicest place
 
 Most of lower Stevens Canyon is inundated by Stevens Creek Reservoir and ringed by a quarry on one side and expensive mansions on the other. Still a nice place, though, and the road around the reservoir is solidly A-tier for biking.
 
+## Black Mountain
 
+*The* destination for biking. Take Montebello up through the trees and experience biking heaven. The first 1.5 miles or so are awful, but after that the rest is very, very, very nice. This is tied with Cool Square for my all-time favorite route. Pictures from a recent ride: [me](https://apawate.github.io/bike.jpg) and [Antonio](https://apawate.github.io/antonio.jpg).
