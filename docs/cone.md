@@ -27,3 +27,5 @@ Play a low E horizontally and push the bell onto the small end of the cone, on w
 Take the cone to any pep band game - preferably no formal concerts - and unleash it. Teach other clarinets. Ignore drum majors - especially loud, bossy ones - when they complain, but always heed the advice of your band director.
 
 Happy coning! 
+
+**Update 2/12/24:** I have lost the cone (somehow) and am currently searching for it. If I find it (or procure another one), I'll make a Youtube how-to video!
